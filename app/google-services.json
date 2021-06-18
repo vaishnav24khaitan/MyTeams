@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96003979701",
+    "project_id": "myteams-5d517",
+    "storage_bucket": "myteams-5d517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96003979701:android:33fd675f555fcfabb941fc",
+        "android_client_info": {
+          "package_name": "com.example.myteams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96003979701-lm4nb91dampfao2qriilh61ir3mt0e8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCevUZreNZAsDCE0JPIE2FG3maYzliS4Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96003979701-lm4nb91dampfao2qriilh61ir3mt0e8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
